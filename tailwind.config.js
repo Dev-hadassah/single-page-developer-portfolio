@@ -12,7 +12,7 @@ module.exports = {
 
       },
       fontFamily: {
-        SpaceGrotesk: ['SpaceGrotesk', 'sans-serif']
+        SpaceGrotesk: ['Space Grotesk', 'sans-serif']
       }
     }
   },
